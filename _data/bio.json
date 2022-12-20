@@ -1,0 +1,68 @@
+{
+  "basics": {
+    "name": "Owen Walpole",
+    "label": "CompTIA Secure Infrastructure Specialist",
+    "picture": "https://github.com/owenthewizard.png",
+    "email": "zruz0hq5daam@opayq.com",
+    "phone": "(682) 235-0892",
+    "website": "https://owenthewizard.github.io",
+    "summary": "I am currently employed as a TSG Technician at UPS.",
+    "location": { "address": "", "postalCode": "78681", "city": "Round Rock", "countryCode": "USA", "region": "Texas" },
+    "profiles": [
+      { "network": "github", "username": "owenthewizard", "url": "http://github.com/owenthewizard" },
+      { "network": "linkedin", "username": "RRTech", "url": "http://linkedin.com/in/RRTech" }
+    ]
+  },
+  "interests": [
+    { "name": "Rust" },
+    { "name": "Selfhosted Computing" },
+    { "name": "Linux" },
+    { "name": "Hacker Culture" },
+    { "name": "Personal Finance" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Rust", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Gentoo", "Arch", "Debian" ]
+    }
+  ],
+  "work": [
+    {
+      "company": "United Parcel Service (UPS)",
+      "position": "TSG Technician",
+      "website": "https://www.ups.com",
+      "startDate": "2022-02-14",
+      "endDate": "Present",
+      "summary": "Provide customer focused support to resolve technology related problems within UPS.",
+      "highlights": [
+          "Install, configure, and deploy computers, printers, scan guns, and more.",
+          "Manage tickets, asset records, and contacts using ServiceNow.",
+          "Manage asset life cycle and security best practices.",
+          "Handle equipment repair and refurbishment cases both internally and externally with vendors."
+      ]
+    },
+    {
+      "company": "Capstone Works, Inc.",
+      "position": "Systems Engineer",
+      "website": "http://www.capstoneworks.com",
+      "startDate": "2019-07-16",
+      "endDate": "2022-02-14",
+      "summary": "Friendly, proactive, worry-free IT.",
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone.",
+        "Manage tickets, monitor assets, and remotely access devices using Connectwise products.",
+        "Manage licensing and core functionality of the Microsoft Office 365 suite.",
+        "Maintain and migrate web and email servers in the Microsoft Azure cloud."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request."
+    }
+  ]
+}
